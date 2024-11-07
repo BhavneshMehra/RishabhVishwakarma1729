@@ -36,7 +36,7 @@ I'm a Maths grad, with a strong focus on data science. I specialize in translati
 - [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
 
----
+---kjbbhhhhhhhhhhhhhhhhhh
 
 **Mathematics Teacher**  
 [Years of Service: 3]  
